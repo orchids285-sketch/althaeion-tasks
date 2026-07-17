@@ -117,3 +117,6 @@ packages/i18n/src/types/keys.generated.ts
 
 # Local security notes (not for version control)
 /security/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
